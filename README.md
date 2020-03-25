@@ -1,2 +1,2 @@
 # Movie-Store
-A portal in Django framework.
+A portal build in Django framework.
